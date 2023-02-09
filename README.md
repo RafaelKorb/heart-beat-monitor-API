@@ -21,4 +21,4 @@ $ alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
 ```
 
 
-## O servidor inciará na porta:80 - acesse <http://localhost:80>
+### O servidor inciará na porta:80 - acesse <http://localhost:80>
