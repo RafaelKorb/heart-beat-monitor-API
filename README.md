@@ -1,4 +1,4 @@
-<h1 align="center">Heart Bit Monitor</h1>
+<h1 align="center">Heart Beat Monitor</h1>
 
 ### 🎲 Rodando o Back End (servidor)
 
