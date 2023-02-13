@@ -1,13 +1,13 @@
-<h1 align="center">Heart Bit Monitor</h1>
+<h1 align="center">Heart Beat Monitor</h1>
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando a API
 
 ```bash
 # Clone este repositório
-$ git clone <heart-bit-monitor_API>
+$ git clone <heart-beat-monitor_API>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd heart-bit-monitor_API
+$ cd heart-beat-monitor_API
 
 # Execute a aplicação com Laravel Sail
 $ ./vendor/bin/sail up
